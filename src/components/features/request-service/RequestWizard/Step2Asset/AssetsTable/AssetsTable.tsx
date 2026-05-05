@@ -79,7 +79,7 @@ export function AssetsTable() {
                       Under Warranty
                     </Badge>
                   ) : (
-                    <Badge variant="outline" className="border-neutral-200 bg-neutral-50 text-xs font-medium text-neutral-950">
+                    <Badge className="border-neutral-200 bg-neutral-50 text-xs font-medium text-neutral-950">
                       Expired
                     </Badge>
                   )}
